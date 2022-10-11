@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraYissel
 - 👀 I’m interested in Front Dev, reading all kind of books and music.
-- 🌱 I’m currently learning JHipster.
+- 🌱 I’m currently learning Docusaurus.
 - 💞️ I’m looking to collaborate on a great and modern proyect.
 - 📫 How to reach me: laurayisselmoreta@gmail.com, https://www.linkedin.com/in/yissel-moreta/.
 
